@@ -47,9 +47,9 @@ We can therefore detect 20 objects in images (+1 for the background class), incl
 
 ## Results
 
-![Alt Text](https://github.com/TheNsBhasin/DNN_Object_Detection/blob/master/output.gif)
+![Alt Text](https://github.com/akshitgarg09/DNN_Object_Detection/blob/master/output.gif)
 
-![Alt Text](https://github.com/TheNsBhasin/DNN_Object_Detection/blob/master/sample.jpeg)
+![Alt Text](https://github.com/akshitgarg09/DNN_Object_Detection/blob/master/sample.jpeg)
 
 ## References
 
